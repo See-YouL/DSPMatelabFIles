@@ -59,7 +59,7 @@ axis([10 20 0 1.2]);
 
 #### 输出图像
 
-![M01Figure1](https://raw.githubusercontent.com/See-YouL/MarkdownPhotos/main/202305261939581.png
+![M01Figure1](https://raw.githubusercontent.com/See-YouL/MarkdownPhotos/main/202305261939581.png)
 
 ### 正弦型序列数字角频率的理解
 
