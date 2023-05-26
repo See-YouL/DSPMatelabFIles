@@ -1,6 +1,17 @@
 # DSP Matelab Files
 
+## README 说明
+
+本开源项目涵盖**视频中出现的Matlab程序**, **若有侵权问题, 请及时沟通, 作者会进行删除**
+
+- 视频为**华东理工大学万永菁老师**主讲的**数字信号处理**课程
+- 对应网课视频出处 : [视频地址B站连接](https://www.bilibili.com/video/BV13P411P7Pv/?share_source=copy_web&vd_source=0db47c15b9f51dbaa4548ec2dc55dea4)
+- 编译运行软件版本 : MATLAB R2021b
+- PC机环境 : Windows11
+
 ## CONTENTS 目录
+
+### Chap01 第一章目录
 
 1. 画出单位时间序列
 2. 正弦型序列数字角频率的理解
